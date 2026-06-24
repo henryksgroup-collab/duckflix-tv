@@ -10,8 +10,8 @@ android {
         applicationId 'com.duckflix.tv'
         minSdk 21          // Fire OS 5 (Fire TV Stick 2017) em diante
         targetSdk 34
-        versionCode 1
-        versionName '1.0'
+        versionCode 2
+        versionName '1.1'
     }
 
     buildTypes {
